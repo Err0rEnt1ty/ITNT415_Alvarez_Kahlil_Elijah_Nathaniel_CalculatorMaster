@@ -14,7 +14,7 @@ def get_numbers():
             num2 = float(input("Enter second number: "))
             return num1, num2
         except ValueError:
-            print("Invalid input. Please enter numeric values only.")
+            print("Please enter numeric values only.")
 
 
 def main():
