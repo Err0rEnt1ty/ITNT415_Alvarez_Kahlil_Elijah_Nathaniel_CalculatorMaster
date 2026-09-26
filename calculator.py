@@ -1,5 +1,3 @@
-# calculator.py
-
 def display_menu():
     print("\n===== Calculator Master =====")
     print("1. Addition")
