@@ -36,11 +36,11 @@ def main():
             #Add
             print(f"Result: {num1} + {num2} = {num1 + num2}")
         elif choice == "2":
-            pass  # subtraction will be added on the subtraction branch
+            print(f"Result: {num1} - {num2} = {num1 - num2}")
         elif choice == "3":
-            pass  # multiplication will be added on the multiplication branch
+            pass  
         elif choice == "4":
-            pass  # division will be added on the division branch
+            pass  
 
 
 if __name__ == "__main__":
