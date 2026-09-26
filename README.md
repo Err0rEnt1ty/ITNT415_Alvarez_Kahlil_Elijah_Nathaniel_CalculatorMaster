@@ -5,11 +5,11 @@ Project Description:
 Calculator that is made in VS Code and published in GitHub
 
 Branch:
-`main` 
-`addition_LastName` 
-`subtraction_LastName` 
-`multiplication_LastName` 
-`division_LastName`
+main 
+Addition_Alvarez
+Subtraction_Alvareze
+Multiplication_Alvarez
+Division_Alvarez
 
 Project Features:
 Addition
