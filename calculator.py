@@ -1,11 +1,10 @@
 def display_menu():
-    print("\n===== Calculator Master =====")
+    print("\nCalculator Master")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
     print("4. Division")
     print("5. Exit")
-    print("==============================")
 
 
 def get_numbers():
