@@ -39,7 +39,8 @@ def main():
             #Subtraction
             print(f"Result: {num1} - {num2} = {num1 - num2}")
         elif choice == "3":
-            pass  
+            #Multiplication
+            print(f"Result: {num1} * {num2} = {num1 * num2}")
         elif choice == "4":
             pass  
 
