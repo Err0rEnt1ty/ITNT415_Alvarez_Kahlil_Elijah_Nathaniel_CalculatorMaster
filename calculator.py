@@ -36,6 +36,7 @@ def main():
             #Add
             print(f"Result: {num1} + {num2} = {num1 + num2}")
         elif choice == "2":
+            #Subtraction
             print(f"Result: {num1} - {num2} = {num1 - num2}")
         elif choice == "3":
             pass  
