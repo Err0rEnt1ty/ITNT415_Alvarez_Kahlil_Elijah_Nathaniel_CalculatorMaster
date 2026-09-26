@@ -26,7 +26,7 @@ def main():
             print("Exiting Calculator Master. Goodbye!")
             break
         elif choice not in ("1", "2", "3", "4"):
-            print("Invalid choice. Please select a number between 1 and 5.")
+            print("Please select a number between 1 and 5.")
             continue
 
         num1, num2 = get_numbers()
