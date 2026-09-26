@@ -1,3 +1,5 @@
+# calculator.py
+
 def display_menu():
     print("\n===== Calculator Master =====")
     print("1. Addition")
@@ -35,8 +37,7 @@ def main():
         if choice == "1":
             pass  # addition will be added on the addition branch
         elif choice == "2":
-            #subtraction
-            print(f"Result: {num1} - {num2} = {num1 - num2}")  
+            pass  # subtraction will be added on the subtraction branch
         elif choice == "3":
             pass  # multiplication will be added on the multiplication branch
         elif choice == "4":
