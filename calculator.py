@@ -42,7 +42,7 @@ def main():
             #Multiplication
             print(f"Result: {num1} * {num2} = {num1 * num2}")
         elif choice == "4":
-            pass  
+            print(f"Result: {num1} / {num2} = {num1 / num2}")
 
 
 if __name__ == "__main__":
