@@ -33,10 +33,11 @@ def main():
         num1, num2 = get_numbers()
 
         if choice == "1":
-            #add
+            #Add
             print(f"Result: {num1} + {num2} = {num1 + num2}")
         elif choice == "2":
-            pass   
+            #Subtraction
+            print(f"Result: {num1} - {num2} = {num1 - num2}")
         elif choice == "3":
             pass  
         elif choice == "4":
