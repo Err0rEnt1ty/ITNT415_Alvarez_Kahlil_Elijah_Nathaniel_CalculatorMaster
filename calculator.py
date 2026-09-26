@@ -1,5 +1,5 @@
 def display_menu():
-    print("\nCalculator Master")
+    print("\nCalculator")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
