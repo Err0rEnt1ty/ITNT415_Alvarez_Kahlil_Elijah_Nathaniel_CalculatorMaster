@@ -33,7 +33,7 @@ def main():
         num1, num2 = get_numbers()
 
         if choice == "1":
-            pass  # addition will be added on the addition branch
+            print(f"Result: {num1} + {num2} = {num1 + num2}")
         elif choice == "2":
             pass  # subtraction will be added on the subtraction branch
         elif choice == "3":
